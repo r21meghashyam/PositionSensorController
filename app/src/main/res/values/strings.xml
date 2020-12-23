@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PositionSensorController</string>
+    <string name="server_searching">Server: Searching...</string>
+    <string name="reset_to_current">Reset to current</string>
+</resources>
